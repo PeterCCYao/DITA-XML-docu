@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j3c_zps_fwb">
+    <title>How to add numbers</title>
+    <shortdesc>This section demonstrates how to use the addition feature of The Smart Calculator
+        app.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>To successfully add numbers, you must know what addition is.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the plus (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result><p>The result of addition is displayed.</p></result>
+        <example>
+            <p>If you want to add 6 and 4, the equation will look like: 6+4=10. You enter 6, select
+                plus, enter 4, and then select equal. The result 10 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task>

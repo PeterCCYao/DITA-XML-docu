@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_h3f_mfn_fwb">
+    <title>How to subtract numbers</title>
+    <shortdesc>This section demonstrates how to use the subtraction feature of The Smart Calculator app.</shortdesc>
+    <taskbody>
+        <prereq><p>To successfully subtract numbers, you need to know what subtraction is.</p></prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result><p>The result of the subtraction is displayed.</p></result>
+        <example>
+            <p>If you want to subtract 30 from 45, the equation will look like: 45-30=15. You enter
+                45, select minus, enter 30, and then select equal. The result 15 appears on the
+                screen.</p>
+        </example>
+    </taskbody>
+</task>
